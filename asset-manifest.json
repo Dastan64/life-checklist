@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.6f7ba22d.chunk.js",
-    "main.js.map": "/static/js/main.6f7ba22d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.41b05b9a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.41b05b9a.js.map",
-    "static/js/2.5fc26d9f.chunk.js": "/static/js/2.5fc26d9f.chunk.js",
-    "static/js/2.5fc26d9f.chunk.js.map": "/static/js/2.5fc26d9f.chunk.js.map",
-    "static/js/3.84d106d5.chunk.js": "/static/js/3.84d106d5.chunk.js",
-    "static/js/3.84d106d5.chunk.js.map": "/static/js/3.84d106d5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.5fc26d9f.chunk.js.LICENSE.txt": "/static/js/2.5fc26d9f.chunk.js.LICENSE.txt"
+    "main.js": "/life-checklist/static/js/main.6f7ba22d.chunk.js",
+    "main.js.map": "/life-checklist/static/js/main.6f7ba22d.chunk.js.map",
+    "runtime-main.js": "/life-checklist/static/js/runtime-main.efcbf83c.js",
+    "runtime-main.js.map": "/life-checklist/static/js/runtime-main.efcbf83c.js.map",
+    "static/js/2.7845a3dd.chunk.js": "/life-checklist/static/js/2.7845a3dd.chunk.js",
+    "static/js/2.7845a3dd.chunk.js.map": "/life-checklist/static/js/2.7845a3dd.chunk.js.map",
+    "static/js/3.84d106d5.chunk.js": "/life-checklist/static/js/3.84d106d5.chunk.js",
+    "static/js/3.84d106d5.chunk.js.map": "/life-checklist/static/js/3.84d106d5.chunk.js.map",
+    "index.html": "/life-checklist/index.html",
+    "static/js/2.7845a3dd.chunk.js.LICENSE.txt": "/life-checklist/static/js/2.7845a3dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41b05b9a.js",
-    "static/js/2.5fc26d9f.chunk.js",
+    "static/js/runtime-main.efcbf83c.js",
+    "static/js/2.7845a3dd.chunk.js",
     "static/js/main.6f7ba22d.chunk.js"
   ]
 }
